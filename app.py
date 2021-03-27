@@ -1,5 +1,4 @@
 import streamlit as st
-import cv2
 import numpy as np
 import pandas as pd
 import os 
@@ -15,6 +14,7 @@ from PersonDetector import *
 #from MaskWarning import *
 from FaceMaskClassifier import FaceMaskClassifier
 import os
+import cv2
 os.environ['KMP_DUPLICATE_LIB_OK']='True'
 
 #Background
