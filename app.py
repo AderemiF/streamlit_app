@@ -5,7 +5,7 @@ import pandas as pd
 import os 
 import imutils
 import datetime
-#import time
+import time
 from imutils.video import VideoStream
 from Annotater import Annotater
 from FaceDetector import *
