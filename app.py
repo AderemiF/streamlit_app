@@ -3,7 +3,6 @@ import cv2
 import numpy as np
 import pandas as pd
 import os 
-import base64
 import imutils
 import datetime
 import time
