@@ -1,0 +1,13 @@
+streamlit
+opencv-python
+numpy 
+pandas 
+base64
+imutils
+datetime
+time
+math
+torch
+torchvision 
+skimage
+Pillow 
