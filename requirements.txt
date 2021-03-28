@@ -1,5 +1,5 @@
-opencv-contrib-python
 opencv-python
+opencv-contrib-python
 streamlit
 numpy 
 pandas 
