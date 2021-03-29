@@ -7,5 +7,5 @@ skimage==0.0
 streamlit==0.79.0
 torch==1.8.1
 torchvision==0.9.1
-opencv-python-headless
-opencv-contrib-python-headless
+opencv-python
+opencv-contrib-python
